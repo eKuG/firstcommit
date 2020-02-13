@@ -1,4 +1,4 @@
 ---
-username: YOUR_USER_NAME
-fullname: YOUR_FULL_NAME
+username: Faizi-alpha
+fullname: Faizan Ahmed Siddiqui
 ---
